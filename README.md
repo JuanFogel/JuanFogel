@@ -1,6 +1,7 @@
 #  Bienvenido a mi GitHub👋 <div id="header" align="end"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZvZDYzbWdpbGxrYzR3dXI0anFuZTBpbmtxdXZ0NHFpNWN2ZTRnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bx3Cvt88j7PtM4SOaS/giphy.gif" width="50"/></div> 
 
-![Baner Juan Fogel ](BannerGithub.png)
+<video align="center" src="./banermov2.mp4" autoplay poster="posterimage.jpg">
+</video>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juan.fogel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juang.fogel@gmail.com)
